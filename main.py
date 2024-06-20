@@ -15,7 +15,7 @@ def get_image():
 
     st.image(
         im,
-        caption='image from wikimedia commons, now at 2024/06/20 2',
+        caption='image from wikimedia commons, now at 2024/06/20 3',
         use_column_width=True
     )
 
